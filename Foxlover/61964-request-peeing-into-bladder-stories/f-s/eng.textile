@@ -12,15 +12,15 @@ I've read some amazing stories built around this concept;
 
 "Emily Gets A Date" by @holditin
 
-%https://www.omorashi.org/topic/45015-emily-gets-a-date/?tab=comments#comment-1483796
+$/45015-emily-gets-a-date/
 
 "Customers Come First" (Might be my favorite) by @Markj9494
 
-%https://www.omorashi.org/topic/60894-the-customers-come-first/?tab=comments#comment-1799039
+$/60894-the-customers-come-first/
 
 "A Golden Decree" (commission I asked for, based on an RP I did) by @Markj9494
 
-%https://www.omorashi.org/topic/61660-a-golden-decree/?tab=comments#comment-1809651
+$/61660-a-golden-decree/
 
 "Full To The Brim" by @holditin
 
@@ -141,4 +141,5 @@ $iframe allowfullscreen data-embedauthorid="45388" data-embedcontent data-embedi
 Seems the only way these stories appear is if I write/commission them XD
 
 $
+
 
